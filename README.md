@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ryandecosmo
 - 👀 I’m interested in compilers, data engineering, and algorithms
-- 🌱 I’m currently learning how to model chaotic systems
+- 🌱 I’m currently learning techniques to model chaotic systems
 - 💞️ I’m looking to collaborate on projects that help empower data personas
 - 📫 How to reach me: on slack or email
 
